@@ -18,3 +18,9 @@ The Treadmill Dashboard is built using C# and .NET. The application is designed 
 
 ## Contact
 If you have any questions or feedback, please feel free to reach out to the project maintainers. We are always looking for ways to improve the Treadmill Dashboard and would love to hear from you.
+
+## Screenshots
+<p>
+  <img align="left" width="48%" src="docs/light.png">
+  <img align="left" width="48%" src="docs/dark.png">
+</p>
