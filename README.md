@@ -9,3 +9,4 @@ Treadmill Dashboard is a user-friendly application that helps track and monitor 
 - Accurate tracking of performance according to given data 
 
 ## Technical Details
+The Treadmill Dashboard is built using C# and .NET. The application is designed to provide a smooth and seamless user experience while tracking your treadmill performance. It's simple and easy to use.
