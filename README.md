@@ -10,7 +10,7 @@ Treadmill Dashboard is a user-friendly application that helps track and monitor 
 
 ## Getting Started
 - The software is already build.
-- Donwload the .exe from bin/Release.
+- Download the .exe from bin/Release.
 - Run the software.
 
 ## Technical Details
